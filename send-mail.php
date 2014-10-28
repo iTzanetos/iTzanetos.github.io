@@ -7,8 +7,8 @@
 
 	// contact form fields
 	$name = trim( $_POST['name'] );
-	$email = trim( $_POST['email'] );
-	$message = trim( $_POST['message'] );
+	$email =  trim( $_POST['email'] );
+	$message =  trim( $_POST['message'] );
 	$submitted = $_POST['submitted'];
 
 	// contact form submitted
